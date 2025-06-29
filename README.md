@@ -1,2 +1,6 @@
 # CS-465-Full-Stack-Development
 Full Stack Development 1
+
+In my full stack project, I used Express with HTML and JavaScript for the customer-facing side and an Angular Single Page Application (SPA) for the admin interface. The Express setup provided simple, static page rendering, while the SPA allowed dynamic content updates without full page reloads, improving efficiency and user experience. MongoDB was used on the backend due to its flexible, schema-less structure, which made it ideal for handling varied data types and scaling easily. JSON played a key role in connecting the frontend and backend, enabling data to be exchanged seamlessly through HTTP requests. Refactoring UI components into reusable pieces improved maintainability, consistency, and development speed.
+
+Throughout development, I tested endpoints using tools like Postman, verifying that methods like GET and POST returned correct data and status codes. Testing was more complex for protected routes, requiring valid tokens to simulate authenticated users. This course helped me build strong skills in API development, UI design, and security, making me more marketable for software development roles. I now feel more confident in my ability to build scalable, maintainable, and secure web applications across the full stack.
